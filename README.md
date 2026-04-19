@@ -1,7 +1,7 @@
 <h1 align="center">Get to know me:</h1>
 
 - 👋 Hi, I’m <b>Felipe Arboleda Cardona</b>
-- I’m a Agronomic Engineering student at UNAL University. I enjoy coding, playing video games, and have a strong passion for music. I’m always eager to learn new
+- I’m a Agronomic Engineering at UNAL University. I enjoy coding, playing video games, and have a strong passion for music. I’m always eager to learn new
 - 📫 Feel free to reach me out through my email: **feliarca99@gmail.com**
 
 <h3 align="center">My favorite languages:</h3>
